@@ -1,3 +1,8 @@
+
+# Hola y bienvenido a mi perfil
+
+¡Hola! Soy Ezequiel Bugallo, un desarrollador Full Stack apasionado por la creación de aplicaciones web y el desarrollo de soluciones tecnológicas. Estoy comprometido con la entrega de código limpio, eficiente y escalable para crear experiencias digitales de alta calidad.
+
 <img src="https://media.giphy.com/media/55mFlE1UY3eHFVUIKb/giphy.gif" width="3250" height="250">
 
 
@@ -23,9 +28,6 @@
 https://www.linkedin.com/in/ezequiel-bugallo-2204b577/
 ```
 
-# Hola y bienvenido a mi perfil
-
-¡Hola! Soy Ezequiel Bugallo, un desarrollador Full Stack apasionado por la creación de aplicaciones web y el desarrollo de soluciones tecnológicas. Estoy comprometido con la entrega de código limpio, eficiente y escalable para crear experiencias digitales de alta calidad.
 
 ## Sobre mí
 
